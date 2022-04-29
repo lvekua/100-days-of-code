@@ -13,4 +13,4 @@
 ### Day 3: Apr 29, 2022
 **Today's Progress:** JavaScript 30 Projects - 02/30 CSS + JS Clock
 **Thoughts:** Really nice way to learn how to interact with date and time in JavaScript. (Feels rad!)
-**Link to work:** (https://github.com/lvekua/js-30/tree/master/01%20-%20JavaScript%20Drum%20Kit)
+**Link to work:** (https://github.com/lvekua/js-30/blob/master/02%20-%20JS%20and%20CSS%20Clock/index-START.html)

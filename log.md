@@ -14,3 +14,8 @@
 **Today's Progress:** JavaScript 30 Projects - 02/30 CSS + JS Clock
 **Thoughts:** Really nice way to learn how to interact with date and time in JavaScript. (Feels rad!)
 **Link to work:** (https://github.com/lvekua/js-30/blob/master/02%20-%20JS%20and%20CSS%20Clock/index-START.html)
+
+### Day 4: Apr 30, 2022
+**Today's Progress:** JavaScript 30 Projects - 03/30 03 - CSS Variables
+**Thoughts:** Learned how to update css variables with javascript. There is a steep learning curve to it but overall feels good!
+**Link to work:** (https://github.com/lvekua/js-30/blob/master/03%20-%20CSS%20Variables/index-START.html)
